@@ -1,7 +1,10 @@
 ##################################################################################
 # Community translation by StarkPvP
 # Thank you!
-
+#@meta:langid=0x02
+#@meta:langst=no
+#@meta:langlg=Norwegian
+#@meta:contrib:StarkPvP
 items_battle: "&6Kamparena"
 account_create: "\xa7aDin profil har blitt opprettet. Sjekk din statistikk p\xE5 http://minekits.eu/profile/%s"
 items_quests: "\xa76Daglige utfordringer"
