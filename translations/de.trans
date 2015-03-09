@@ -1,5 +1,6 @@
 
-
+#@meta:langid=0x01
+#@meta:lang
 items_battle: "\xa76Battle Arena"
 account_create: "\xa7aDein Profile wurde erstellt. Du kannst deine \xa7eStatistiken\
   \ \xa7aauf \xa7fhttps://minekits.net/profile/%s \xa7aabrufen."
